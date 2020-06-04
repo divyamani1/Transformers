@@ -35,3 +35,5 @@ optional arguments:
   -p POSITIONAL, --positional POSITIONAL
                         If true, use positional embeddings. If false, use positional encodings.
 ```
+# References
+[Transformers from scratch](http://www.peterbloem.nl/blog/transformers)
